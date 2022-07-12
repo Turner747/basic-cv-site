@@ -1,3 +1,7 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
 #profile-pic {
   width: 200px;
   height: auto;
